@@ -1,0 +1,10 @@
+C:\Dev\HttpClientTest\HttpClientTest\bin\Debug\HttpClientTest.exe.config
+C:\Dev\HttpClientTest\HttpClientTest\bin\Debug\HttpClientTest.exe
+C:\Dev\HttpClientTest\HttpClientTest\bin\Debug\HttpClientTest.pdb
+C:\Dev\HttpClientTest\HttpClientTest\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\HttpClientTest\HttpClientTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\HttpClientTest\HttpClientTest\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\HttpClientTest\HttpClientTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\HttpClientTest\HttpClientTest\obj\Debug\HttpClientTest.csprojResolveAssemblyReference.cache
+C:\Dev\HttpClientTest\HttpClientTest\obj\Debug\HttpClientTest.exe
+C:\Dev\HttpClientTest\HttpClientTest\obj\Debug\HttpClientTest.pdb
